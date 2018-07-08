@@ -1,0 +1,1 @@
+These scripts lets us teach and practice more about Classes.
