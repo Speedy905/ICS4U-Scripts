@@ -1,0 +1,15 @@
+Name: Character Name
+Class: Healer
+Race: Human
+Strength: 17
+Constitution: 10
+Dexterity: 8
+Intelligence: 19
+Wisdom: 2
+Charisma: 9
+Back Slot: large sword
+Belt Slot: large sword
+Left Hand: torch
+Right Hand: lamp
+Pack: healing potions, coins, blue potion, lamp, ring, 
+      food, artifact, red potion, lamp, empty/none 

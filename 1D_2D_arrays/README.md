@@ -1,0 +1,1 @@
+This script reads character.txt and creates a 2D array from the stats
